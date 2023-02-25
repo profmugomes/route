@@ -3,6 +3,7 @@
 /** 
  * @package route
  * @author Murilo Gomes <contatoprofmugomes@gmail.com>
+ * @copyright (c) 2023 Murilo Gomes
  * @license GPL-2.0
  * @version 1.0.0, 2023-02-24
  */

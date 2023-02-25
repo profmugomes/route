@@ -1,0 +1,8 @@
+{
+    "name":"profmugomes/route",
+    "autoload":{
+        "psr-4": {
+            "Route\\":"route/"
+        }
+    }
+}
